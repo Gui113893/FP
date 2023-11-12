@@ -1,5 +1,6 @@
 def test1():
     print("Test1")
+    return 1+1
 
 def test2():
     print("Test2")
