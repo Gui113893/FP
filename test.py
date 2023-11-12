@@ -2,7 +2,7 @@ def test1():
     ...
 
 def test2():
-    ...
+    print("Test2")
 
 def main():
     test1()
