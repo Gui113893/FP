@@ -2,7 +2,7 @@
 # PF - Programming Fundamentals
 ### Final Grade: 19/20
 
-## Objectives
+## Objective
 Being capable of resolving small and medium scale problems using Python
 
 ## Contents
