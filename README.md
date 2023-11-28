@@ -25,5 +25,5 @@ The workspace contains 3 types of folder:
 - `aulaXX`: the folder with the content and exercises of each class;
 - `Apx2`: the folder with the second SubProject containing the source files;
    - `Avaliação`: the folder with 4 more `Apx2` source files of another students;
- - `Prática` and `extra2`: the folder with the content to practise and study for the final exam;
+ - `Prática` and `extra2`: the folders with the content to practise and study for the final exam;
 
